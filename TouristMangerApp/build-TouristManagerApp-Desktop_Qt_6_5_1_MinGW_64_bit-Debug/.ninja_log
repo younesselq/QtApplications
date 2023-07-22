@@ -1,0 +1,26 @@
+# ninja log v5
+2820	12760	7116534235711382	CMakeFiles/TouristManagerApp.dir/main.cpp.obj	71dfb19646c3da6a
+17	1299	7116540169322697	TouristManagerApp_autogen/timestamp	6be8d87af78a98aa
+17	1299	7116540169322697	C:/Users/AY026817/Desktop/Training/Qt/TouristMangerApp/build-TouristManagerApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/TouristManagerApp_autogen/mocs_compilation.cpp	6be8d87af78a98aa
+17	1299	7116540169322697	TouristManagerApp_autogen/mocs_compilation.cpp	6be8d87af78a98aa
+1344	6911	7116540225817359	CMakeFiles/TouristManagerApp.dir/mainwindow.cpp.obj	f2854cb5aa273bc2
+2790	12575	7116534233848403	CMakeFiles/TouristManagerApp.dir/TouristManagerApp_autogen/mocs_compilation.cpp.obj	15cc46c989761bc5
+17	1299	7116540169322697	C:/Users/AY026817/Desktop/Training/Qt/TouristMangerApp/build-TouristManagerApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/TouristManagerApp_autogen/timestamp	6be8d87af78a98aa
+7586	8157	7116540237748436	TouristManagerApp.exe	b55d7ddd7f5d9046
+1332	7406	7116540230788951	CMakeFiles/TouristManagerApp.dir/registertourist.cpp.obj	4a294000280cb477
+1364	7303	7116540229748806	CMakeFiles/TouristManagerApp.dir/findpackage.cpp.obj	42c7290fda8188fa
+1374	7585	7116540232592473	CMakeFiles/TouristManagerApp.dir/findtourist.cpp.obj	2885e4fdeac9d9bd
+1354	7274	7116540229448885	CMakeFiles/TouristManagerApp.dir/addpackage.cpp.obj	50c9bdaf8f2a4469
+24	485	7117302050640446	TouristManagerApp_autogen/timestamp	6be8d87af78a98aa
+24	485	7117302050640446	TouristManagerApp_autogen/mocs_compilation.cpp	6be8d87af78a98aa
+24	485	7117302050640446	C:/Users/AY026817/Desktop/Training/Qt/TouristMangerApp/build-TouristManagerApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/TouristManagerApp_autogen/timestamp	6be8d87af78a98aa
+24	485	7117302050640446	C:/Users/AY026817/Desktop/Training/Qt/TouristMangerApp/build-TouristManagerApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/TouristManagerApp_autogen/mocs_compilation.cpp	6be8d87af78a98aa
+505	662	7117302052361152	TouristManagerApp_autogen/EWIEGA46WW/qrc_ressources.cpp	e3764de6b67c8eff
+505	662	7117302052361152	C:/Users/AY026817/Desktop/Training/Qt/TouristMangerApp/build-TouristManagerApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/TouristManagerApp_autogen/EWIEGA46WW/qrc_ressources.cpp	e3764de6b67c8eff
+689	1670	7117302061685349	CMakeFiles/TouristManagerApp.dir/TouristManagerApp_autogen/EWIEGA46WW/qrc_ressources.cpp.obj	fd31426d9cf3018a
+680	5786	7117302103589942	CMakeFiles/TouristManagerApp.dir/mainwindow.cpp.obj	f2854cb5aa273bc2
+670	6202	7117302107781325	CMakeFiles/TouristManagerApp.dir/addpackage.cpp.obj	50c9bdaf8f2a4469
+709	6230	7117302108067046	CMakeFiles/TouristManagerApp.dir/findpackage.cpp.obj	42c7290fda8188fa
+662	6310	7117302108866906	CMakeFiles/TouristManagerApp.dir/registertourist.cpp.obj	4a294000280cb477
+699	6322	7117302109007285	CMakeFiles/TouristManagerApp.dir/findtourist.cpp.obj	2885e4fdeac9d9bd
+6323	7340	7117302118482645	TouristManagerApp.exe	48c49588aba716e6
